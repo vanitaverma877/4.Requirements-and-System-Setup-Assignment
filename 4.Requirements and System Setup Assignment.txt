@@ -1,0 +1,222 @@
+
+4.Requirements & System Setup Assignment ;
+
+1.List all the tools you might use as a web developer.
+
+2.What are some of the features of PW Skills Online Lab? Explain how they are useful.
+
+Note: Please create a Google Document and write your answers and upload the shareable link of the Google
+Document with view access during the submission of the assignment.
+
+.......................................................................
+
+
+1.List all the tools you might use as a web developer.
+
+A.As a web developer, there are a wide variety of tools and technologies 
+that you might use. These tools can be grouped into several categories 
+depending on their purpose, such as development, design, version control, 
+testing, and deployment. Below is a comprehensive list of tools that are 
+commonly used by web developers:
+
+1.Code Editors/IDEs
+   - Visual Studio Code
+   - Sublime Text
+   - Atom
+   - WebStorm
+   - Brackets
+
+2. Version Control
+   - Git (Command Line)
+   - GitHub
+   - GitLab
+   - Bitbucket
+   - SourceTree
+
+3. Web Browsers (for development and testing)
+   - Google Chrome (with Developer Tools)
+   - Mozilla Firefox (with Developer Tools)
+   - Safari
+   - Microsoft Edge
+
+4. Package Managers
+   - npm (Node Package Manager)
+   - Yarn
+   - Bower
+
+5. Task Runners & Build Tools
+   - Gulp
+   - Grunt
+   - Webpack
+   - Parcel
+   - Rollup
+
+6.Preprocessors
+   - Sass (CSS preprocessor)
+   - Less (CSS preprocessor)
+   - Pug (HTML preprocessor)
+   - Babel (JavaScript transpiler)
+
+7. Frameworks & Libraries
+   - React
+   - Angular
+   - Vue.js
+   - Bootstrap (CSS framework)
+   - Tailwind CSS
+   - jQuery
+
+8. APIs & Libraries
+   - Axios (HTTP client)
+   - Fetch API
+   - Lodash (JavaScript utility library)
+   - D3.js (Data visualization)
+   - Chart.js (Data visualization)
+   - Three.js (3D graphics)
+
+9. Content Management Systems (CMS)
+   - WordPress
+   - Joomla
+   - Drupal
+   - Ghost
+
+10. Databases
+   - MySQL
+   - PostgreSQL
+   - MongoDB
+   - SQLite
+   - Firebase
+
+11. Backend Frameworks
+   - Node.js (with Express.js)
+   - Django (Python)
+   - Flask (Python)
+   - Ruby on Rails
+   - Laravel (PHP)
+   - ASP.NET Core
+
+12. APIs & Tools for Backend Development
+   - Postman (API testing)
+   - Insomnia (API testing)
+   - GraphQL
+   - REST
+
+13. Version Control Hosting
+   - GitHub
+   - GitLab
+   - Bitbucket
+
+14. Containerization & Virtualization
+   - Docker
+   - Vagrant
+   - Kubernetes
+
+15. Cloud Platforms & Hosting
+   - AWS (Amazon Web Services)
+   - Heroku
+   - Netlify
+   - DigitalOcean
+   - Firebase
+   - Vercel
+
+16. Design & Prototyping Tools
+   - Figma
+   - Sketch
+   - Adobe XD
+   - Adobe Photoshop
+   - InVision
+   - Canva
+
+17. Browser Extensions
+   - React Developer Tools
+   - Redux DevTools
+   - Web Developer Toolbar
+   - ColorZilla
+   - Lighthouse (for performance audits)
+
+18. Collaboration & Project Management
+   - Trello
+   - Jira
+   - Slack
+   - Asana
+   - Notion
+
+19. Deployment & CI/CD
+   - Jenkins
+   - Travis CI
+   - CircleCI
+   - GitHub Actions
+   - Ansible
+
+20. Testing & Debugging Tools
+   - Jest (JavaScript testing)
+   - Mocha (JavaScript testing)
+   - Chai (Assertion library)
+   - Selenium (Automated testing)
+   - Cypress (End-to-end testing)
+   - Browser Developer Tools (Chrome DevTools, Firefox Developer Tools)
+   - Postman (API testing)
+
+21. Performance Monitoring & Analytics
+   - Google Analytics
+   - Lighthouse
+   - New Relic
+   - Sentry (Error tracking)
+   - PageSpeed Insights
+
+22. SEO Tools
+   - Google Search Console
+   - Ahrefs
+   - SEMrush
+   - Yoast SEO (for WordPress)
+
+23. Security Tools
+   - OWASP ZAP (Zed Attack Proxy)
+   - Netsparker
+   - Burp Suite
+
+24. Miscellaneous Tools
+   - JSON Formatter
+   - Regex101 (Regex testing)
+   - Can I use (Browser compatibility checker)
+   - Placeholder Image Generators (e.g., Placeholder.com)
+
+Each tool plays a crucial role at different stages of web development, 
+from coding and debugging to deployment and collaboration. The tools 
+you choose will depend on your specific needs, workflow, and the type 
+of projects you're working on.
+
+..................................................................
+
+2.What are some of the features of PW Skills Online Lab? Explain how they are useful.
+
+A.PW Skills Online Lab offers a range of features that make it an effective 
+platform for learning and practicing coding skills:
+
+1.In-Browser IDE: This feature allows users to code directly in 
+the browser without needing to install software locally. This is especially 
+useful for learners with limited access to high-performance computers, as 
+they can leverage the lab's computing power (PW Skills Lab).
+
+2.Unlimited Labs: The platform provides unlimited access to virtual 
+labs, enabling learners to experiment, practice, and build projects without 
+any limitations. This continuous hands-on experience helps users solidify 
+their coding skills (PW Skills Lab).
+
+3.Doubt Clearing Sessions: Learners have access to doubt-clearing 
+sessions, which are crucial for resolving issues in real-time and ensuring 
+a smooth learning experience (LivePW).
+
+4.Job Assistance and Career Guidance: The platform includes features 
+such as resume building, mock interviews, and placement support. This 
+ensures that learners not only gain skills but also get help transitioning 
+into job roles (PW Skills).
+
+These features make PW Skills Online Lab a comprehensive platform for 
+coding education, with a strong focus on practical learning and career 
+development.
+
+
+
+.............................................................
+
+
